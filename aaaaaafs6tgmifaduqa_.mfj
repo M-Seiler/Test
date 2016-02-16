@@ -13,13 +13,13 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 173,
-	"top": 95,
-	"width": 41.919921875,
+	"left": 21,
+	"top": 167,
+	"width": 142.29541015625,
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "Class1",
+	"text": "TEST_NAME_CHANGE",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }
