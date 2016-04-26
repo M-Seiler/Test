@@ -13,13 +13,13 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 21,
-	"top": 167,
-	"width": 142.29541015625,
+	"left": 133,
+	"top": 135,
+	"width": 303,
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "TEST_NAME_CHANGE",
+	"text": "dfg",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }

@@ -16,9 +16,9 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 16,
-	"top": 160,
-	"width": 152.29541015625,
+	"left": 128,
+	"top": 128,
+	"width": 313,
 	"height": 25,
 	"autoResize": false,
 	"stereotypeLabel": {
