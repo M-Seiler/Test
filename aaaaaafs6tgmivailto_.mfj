@@ -16,8 +16,8 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": -208,
-	"top": 64,
+	"left": -240,
+	"top": 144,
 	"width": 10,
 	"height": 10,
 	"autoResize": false
