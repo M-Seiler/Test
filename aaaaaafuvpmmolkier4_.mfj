@@ -1,13 +1,13 @@
 {
-	"_type": "UMLOperationCompartmentView",
-	"_id": "AAAAAAFUVoyNpM0qNkc=",
+	"_type": "UMLReceptionCompartmentView",
+	"_id": "AAAAAAFUVpMMOlKIEr4=",
 	"_parent": {
-		"$ref": "AAAAAAFUVoyNos0jFp4="
+		"$ref": "AAAAAAFUVpMMOlKAkpU="
 	},
 	"model": {
-		"$ref": "AAAAAAFUVoyNks0hAzs="
+		"$ref": "AAAAAAFUVpMMOlJ+i+w="
 	},
-	"visible": true,
+	"visible": false,
 	"enabled": true,
 	"lineColor": "#000000",
 	"fillColor": "#ffffff",
@@ -16,9 +16,9 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 720,
-	"top": 305,
-	"width": 51.919921875,
+	"left": 168,
+	"top": 32,
+	"width": 10,
 	"height": 10,
 	"autoResize": false
 }

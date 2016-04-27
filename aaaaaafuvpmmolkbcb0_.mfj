@@ -1,11 +1,11 @@
 {
 	"_type": "UMLNameCompartmentView",
-	"_id": "AAAAAAFUVoyNos0km9U=",
+	"_id": "AAAAAAFUVpMMOlKBCb0=",
 	"_parent": {
-		"$ref": "AAAAAAFUVoyNos0jFp4="
+		"$ref": "AAAAAAFUVpMMOlKAkpU="
 	},
 	"model": {
-		"$ref": "AAAAAAFUVoyNks0hAzs="
+		"$ref": "AAAAAAFUVpMMOlJ+i+w="
 	},
 	"visible": true,
 	"enabled": true,
@@ -16,21 +16,21 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 720,
-	"top": 272,
+	"left": 688,
+	"top": 136,
 	"width": 51.919921875,
-	"height": 23,
+	"height": 25,
 	"autoResize": false,
 	"stereotypeLabel": {
-		"$ref": "AAAAAAFUVoyNos0lJQM="
+		"$ref": "AAAAAAFUVpMMOlKCRHw="
 	},
 	"nameLabel": {
-		"$ref": "AAAAAAFUVoyNo80mBpY="
+		"$ref": "AAAAAAFUVpMMOlKDWbM="
 	},
 	"namespaceLabel": {
-		"$ref": "AAAAAAFUVoyNo80nIyg="
+		"$ref": "AAAAAAFUVpMMOlKEtOs="
 	},
 	"propertyLabel": {
-		"$ref": "AAAAAAFUVoyNo80oa/4="
+		"$ref": "AAAAAAFUVpMMOlKF0w0="
 	}
 }

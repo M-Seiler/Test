@@ -1,11 +1,11 @@
 {
 	"_type": "UMLOperationCompartmentView",
-	"_id": "AAAAAAFUVoyNpM0qNkc=",
+	"_id": "AAAAAAFUVpMMOlKHFXY=",
 	"_parent": {
-		"$ref": "AAAAAAFUVoyNos0jFp4="
+		"$ref": "AAAAAAFUVpMMOlKAkpU="
 	},
 	"model": {
-		"$ref": "AAAAAAFUVoyNks0hAzs="
+		"$ref": "AAAAAAFUVpMMOlJ+i+w="
 	},
 	"visible": true,
 	"enabled": true,
@@ -16,8 +16,8 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 720,
-	"top": 305,
+	"left": 688,
+	"top": 171,
 	"width": 51.919921875,
 	"height": 10,
 	"autoResize": false

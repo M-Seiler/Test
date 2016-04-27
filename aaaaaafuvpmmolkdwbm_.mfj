@@ -1,8 +1,8 @@
 {
 	"_type": "LabelView",
-	"_id": "AAAAAAFUVoyNo80mBpY=",
+	"_id": "AAAAAAFUVpMMOlKDWbM=",
 	"_parent": {
-		"$ref": "AAAAAAFUVoyNos0km9U="
+		"$ref": "AAAAAAFUVpMMOlKBCb0="
 	},
 	"visible": true,
 	"enabled": true,
@@ -13,13 +13,13 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 725,
-	"top": 277,
+	"left": 693,
+	"top": 143,
 	"width": 41.919921875,
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "Class6",
+	"text": "Class7",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }
